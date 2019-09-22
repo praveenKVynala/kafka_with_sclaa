@@ -1,3 +1,4 @@
+import com.apps.kafka
 import java.util.{Collections, Properties}
 
 import scala.collection.JavaConverters._
